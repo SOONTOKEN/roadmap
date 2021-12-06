@@ -70,6 +70,7 @@ SOON Alliance гарантирует, что в пуле на старте 1 SOO
 > 
 > Значит, для того, чтоб минимизировать риски, с большим количеством эмиссии на рынке и снижении цены токена SOON, в первый день должен быть максимальный вестинг по месяцам, нежели в пятый день.
 
+<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/chart2.png' width='100%'></p>
 
 ⚠️ Participation in the IPO is prohibited for residents of the United States and residents of Singapore.
 
