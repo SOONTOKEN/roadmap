@@ -36,7 +36,7 @@ SOON - Токен типа TIP-3/Broxus на блокчейне Everscale.
 - 10% эмиссии будет выделено на вознаграждение участников SOON Alliance
 - 70% эмиссии будет выделено на создание пулов ликвидности и фарминга
 
-<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/chart.png' width='300'></p>
+<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/chart.png' width='100%'></p>
 
 ## Проведение IPO (Первичное публичное размещение)
 
