@@ -73,7 +73,7 @@ SOON Alliance гарантирует, что в пуле на старте 1 SOO
 
 <p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/chart2.png' width='100%'></p>
 
-Сбор средств будет проходить в токене USDT (TIP3/Broxus) на адрес мульти-сигнатурного кошелька SOON Alliance 
+Сбор средств будет проходить в токене USDT (TIP3/Broxus) на адрес мульти-сигнатурного кошелька SOON Alliance
 
 [0:5c906a04946cec99de9bae1ca0bf041e441f44684c75c31bcb5974b480805fa2](https://tonscan.io/accounts/0:5c906a04946cec99de9bae1ca0bf041e441f44684c75c31bcb5974b480805fa2)
 
