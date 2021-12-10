@@ -37,7 +37,7 @@ SOON - Мем-токен типа TIP-3/Broxus на блокчейне Everscale
 - 40% эмиссии токенов SOON будет выделено на создание пулов ликвидности
 - 30% эмиссии токенов SOON будет заблокированно в фарминге
 
-<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/chart.png' width='100%'></p>
+<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/chart.png' width='60%'></p>
 
 ## Crowdsale
 
