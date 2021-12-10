@@ -71,7 +71,7 @@ SOON Alliance гарантирует, что в пуле на старте 1 SOO
 > 
 > Значит, для того, чтоб минимизировать риски, с большим количеством эмиссии на рынке и снижении цены токена SOON, в первый день должен быть максимальный вестинг по месяцам, нежели в пятый день.
 
-<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/chart2.png' width='100%'></p>
+<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/chart2.png' width='60%'></p>
 
 Сбор средств будет проходить в токене USDT (TIP3/Broxus) на адрес мульти-сигнатурного кошелька SOON Alliance
 
