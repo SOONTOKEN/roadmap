@@ -1,4 +1,4 @@
-{
+[
   {"progress":"done","text":"Purchase of the soontoken.space domain and hosting. Creating a website."},
   {"progress":"done","text":"API on soontoken.space"},
   {"progress":"done","text":"Creating a bot @SOON_Token_bot"},
@@ -15,4 +15,4 @@
   {"progress":"not","text":"Create a sticker pack with a raccoon SOON"},
   {"progress":"not","text":"NFT marketplace"},
   {"progress":"not","text":"P2P SOON Exchange"}
-}
+]
